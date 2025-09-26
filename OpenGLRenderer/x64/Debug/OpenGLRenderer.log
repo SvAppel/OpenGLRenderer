@@ -1,0 +1,5 @@
+﻿  Application.cpp
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'glew_static.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'F:\CodingProjects\Renderer\OpenGLRenderer\x64\Debug\glew_static.pdb'; linking object as if no debug info
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLRenderer.vcxproj -> F:\CodingProjects\Renderer\OpenGLRenderer\x64\Debug\OpenGLRenderer.exe
